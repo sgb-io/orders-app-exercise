@@ -25,7 +25,8 @@ Requirements:
 - On the home page, a button should be displayed that takes me to /orders (nothing else on home page)
 - All orders should be displayed by default on /orders
 - Users can filter by Accepted/In Progress/Complete orders (one at a time)
-- On the orders page, the page title should contain a number that matches the number of orders currently being displayed (e.g. "(12) My Orders")
+- When on the orders page, the document's title (i.e. the text of the browser tab name) should contain a number that matches the number of orders currently being displayed (e.g. "(12) My Orders")
+- The number of currently visible orders should also be displayed within the page
 - Users can jump between Accepted/In Progress/Complete directly
 - When users have an order filter on, it should be displayed at the top of the list, with an "X" button/icon which is used to dismiss the current filter
 
@@ -43,6 +44,7 @@ For bonus points, provide a written rationale (or implementation if you wish) fo
 ## Submission
 
 Please send your solution as a .zip to Sam (sam@sgb.io). Please don't include node_modules.
+Alternatively, you can share a link to your repo. **Note:** please create a repo from scratch rather than forking the solution where possible.
 
 ## Feedback
 
