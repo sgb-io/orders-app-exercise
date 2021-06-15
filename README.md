@@ -6,6 +6,7 @@ Prerequisites:
 
 - Node v12 (recommended), v10 and higher versions should also work.
 - Yarn (v1 by default, v2 may work but is un-tested).
+- **Note:** You can switch to npm if you want - just generate a lockfile and remove the Yarn one
 
 Install and start:
 
