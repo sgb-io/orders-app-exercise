@@ -1,4 +1,4 @@
-# Orders Component Exersize
+# Orders App Exercise
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ Install and start:
 - `yarn start`
 - Begin your implementation
 
-## Exersize
+## Exercise
 
 Using TypeScript and React, create a small web application that displays orders. It should look something like this:
 
@@ -31,9 +31,9 @@ Requirements:
 Please note:
 
 - This project was created with Create React App (with TypeScript support added). You are free to add any tooling at your discretion, if you think it will help you. If you find an issue that is preventing you from doing the task, please contact Sam
-- You should consume the order data directly as raw JSON. This is a purely client-side exersize.
+- You should consume the order data directly as raw JSON. This is a purely client-side exercise.
 - You are not being marked on the visual output. `antd` is included out of the box - it is recommend to use standard antd components. You may wish to write a small amount of CSS for the basic page layout.
-- It's expected that the exersize will take 30-60 minutes
+- It's expected that the exercise will take 30-60 minutes
 
 ## Bonus
 
@@ -45,4 +45,4 @@ Please send your solution as a .zip to Sam (sam@sgb.io). Please don't include no
 
 ## Feedback
 
-For any clarifications or feedback on this exersize, please contact Sam (sam@sgb.io)
+For any clarifications or feedback on this exercise, please contact Sam (sam@sgb.io)
